@@ -1,5 +1,4 @@
-## makeCacheMatrix takes a matrix from the global environment stores it in a new local variable called x. Unless an argument isn't passed initially.
-## Then the set function can be used to set
+## makeCacheMatrix takes a matrix from the global environment stores it in a new local variable called x. 
 makeCacheMatrix <- function(x = matrix()) {#initializes function makeMatrixCache
   
   m <- NULL #sets local variable m to NULL
