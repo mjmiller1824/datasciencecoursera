@@ -1,4 +1,4 @@
-## makeCacheMatrix takes a matrix from the global environment stores it in a new local variable called x. 
+## makeCacheMatrix takes a matrix from the global environment stores it in a new local variable called x
 makeCacheMatrix <- function(x = matrix()) {#initializes function makeMatrixCache
   
   m <- NULL #sets local variable m to NULL
